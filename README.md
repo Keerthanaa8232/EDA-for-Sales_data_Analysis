@@ -3,43 +3,43 @@
 OVERVIEW
 
 This project performs Exploratory Data Analysis (EDA) on a sales dataset to uncover business insights such as:
---> The best month for sales
---> Top-performing cities
---> Most sold products
+1. The best month for sale
+2.  Top-performing cities
+3.   Most sold products
 And various factors influencing sales performance.
 The goal is to extract meaningful patterns and help businesses make data-driven decisions.
 
 
 
 🧰 TOOLS AND TECHNOLOGIES USED
--->Python
--->Pandas, NumPy
--->Matplotlib, Seaborn
--->PyArrow
--->Jupyter Notebook
+1. Python
+2. Pandas, NumPy
+3. Matplotlib, Seaborn
+4. PyArrow
+5. Jupyter Notebook
 
 📊 KEY ANALYSIS PERFORMED
 
---> Data Cleaning & Preprocessing
--->Handled missing and duplicate values
--->Converted data types for consistency
--->Monthly Sales Analysis
--->Identified which month generated the highest sales revenue
--->City-Wise Sales Insights
--->Determined which cities recorded the most orders
--->Product Performance
--->Analyzed which products sold the most and why
--->Revenue Trends
--->Studied the relationship between quantity ordered, price, and revenue
+1. Data Cleaning & Preprocessing
+2. Handled missing and duplicate values
+3. Converted data types for consistency
+4. Monthly Sales Analysis
+5. Identified which month generated the highest sales revenue
+6. City-Wise Sales Insights
+7. Determined which cities recorded the most orders
+8. Product Performance
+9. Analyzed which products sold the most and why
+10. Revenue Trends
+11. Studied the relationship between quantity ordered, price, and revenue
 
 
 📈 VISUALIZATION
 Includes several visualizations such as:
--->Monthly revenue trends
--->City-wise order counts
--->Top-selling products chart
--->Trend of Most Sold product
---> Products that are often sold together
+1. Monthly revenue trends
+2. City-wise order counts
+3. Top-selling products chart
+4. Trend of Most Sold product
+5. Products that are often sold together
 (All visualizations created using Matplotlib and Seaborn.)
 
 

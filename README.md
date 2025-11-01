@@ -1,4 +1,4 @@
-🧾 SALES DATA ANALYSIS
+🧾 <font size="5">**SALES DATA ANALYSIS**</font>
 
 OVERVIEW
 
@@ -9,7 +9,7 @@ This project performs Exploratory Data Analysis (EDA) on a sales dataset to unco
 And various factors influencing sales performance.
 The goal is to extract meaningful patterns and help businesses make data-driven decisions.
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🧰 TOOLS AND TECHNOLOGIES USED
 1. Python
@@ -17,6 +17,8 @@ The goal is to extract meaningful patterns and help businesses make data-driven 
 3. Matplotlib, Seaborn
 4. PyArrow
 5. Jupyter Notebook
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📊 KEY ANALYSIS PERFORMED
 
@@ -32,6 +34,8 @@ The goal is to extract meaningful patterns and help businesses make data-driven 
 10. Revenue Trends
 11. Studied the relationship between quantity ordered, price, and revenue
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 📈 VISUALIZATION
 Includes several visualizations such as:
@@ -42,6 +46,7 @@ Includes several visualizations such as:
 5. Products that are often sold together
 (All visualizations created using Matplotlib and Seaborn.)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🧮 PROJECT WORKFLOW
 
@@ -50,7 +55,7 @@ Includes several visualizations such as:
 3. Draw insights from the data
 4. Conclude with actionable findings
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🧠 KEY INSIGHTS FROM SALES DATA ANALYSIS
 
@@ -74,7 +79,7 @@ There is a negative correlation between the price of items and the number of uni
 Electronics consistently dominated sales, especially during discount seasons.
 Accessories like Headphones and Charging Cables were often purchased along with main devices.
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🔧 HOW TO RUN
 1. Clone this repository
@@ -83,6 +88,8 @@ Accessories like Headphones and Charging Cables were often purchased along with 
      cd Sales-Data-Analysis
 3. Open the notebook
      jupyter notebook "Sales_Data_Analysis.ipynb"
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📚 LEARNING OUTCOMES
 
@@ -97,6 +104,8 @@ Practical Skills Gained:
 Applying group-by and aggregation methods to summarize sales data and identify trends, such as determining the best sales month or most popular products.​
 Visualizing findings using plots and charts to present sales trends and insights in a clear, business-friendly manner.​
 Troubleshooting and ignoring non-essential warnings for cleaner output, demonstrating a pragmatic approach to exploratory data analysis.​
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 🧑‍💻 CONTACT

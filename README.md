@@ -102,7 +102,7 @@ Troubleshooting and ignoring non-essential warnings for cleaner output, demonstr
 🧑‍💻 CONTACT
 Keerthanaa S
 📧 skeerthanaa2004@gmail.com
-🔗 LinkedIn
+🔗 LinkedIn (www.linkedin.com/in/keerthanaa-s-a3a99328b)
 
 
 

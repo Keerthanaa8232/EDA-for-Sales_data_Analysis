@@ -54,23 +54,23 @@ Includes several visualizations such as:
 
 🧠 KEY INSIGHTS FROM SALES DATA ANALYSIS
 
-📅 1. Best Month for Sales
+1. Best Month for Sales
 December recorded the highest sales revenue, with a noticeable spike in order volume.
 This aligns with holiday shopping trends and year-end discounts.
 Recommendation: Increase advertising and inventory in December to maximize revenue.
 
-🏙️ 2. Top Cities by Orders
+2. Top Cities by Orders
 San Francisco, Los Angeles, and New York City ranked as the top three cities in terms of total orders and revenue.
 Urban centers show higher purchasing power and demand consistency.
 Recommendation: Focus marketing efforts and delivery efficiency in these regions.
 
-💰 3. Most Profitable Products
+3. Most Profitable Products
 Low-cost accessories led the volume of sales, notably the USB-C Charging Cable and Lightning Charging Cable, due to their affordability and necessity.
 
-📦 4. Relationship Between Quantity Ordered & Revenue
+4. Relationship Between Quantity Ordered & Revenue
 There is a negative correlation between the price of items and the number of units sold—lower-priced products sold in much higher quantities.
 
-📊 5. Product Category Trends
+5. Product Category Trends
 Electronics consistently dominated sales, especially during discount seasons.
 Accessories like Headphones and Charging Cables were often purchased along with main devices.
 

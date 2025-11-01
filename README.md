@@ -1,6 +1,6 @@
 # 🧾 **SALES DATA ANALYSIS**
 
-OVERVIEW
+### **OVERVIEW**
 
 This project performs Exploratory Data Analysis (EDA) on a sales dataset to uncover business insights such as:
 1. The best month for sale
@@ -11,7 +11,7 @@ The goal is to extract meaningful patterns and help businesses make data-driven 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🧰 TOOLS AND TECHNOLOGIES USED
+### 🧰 **TOOLS AND TECHNOLOGIES USED**
 1. Python
 2. Pandas, NumPy
 3. Matplotlib, Seaborn
@@ -20,7 +20,7 @@ The goal is to extract meaningful patterns and help businesses make data-driven 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📊 KEY ANALYSIS PERFORMED
+### 📊 **KEY ANALYSIS PERFORMED**
 
 1. Data Cleaning & Preprocessing
 2. Handled missing and duplicate values
@@ -37,7 +37,7 @@ The goal is to extract meaningful patterns and help businesses make data-driven 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-📈 VISUALIZATION
+### 📈 **VISUALIZATION**
 Includes several visualizations such as:
 1. Monthly revenue trends
 2. City-wise order counts
@@ -48,7 +48,7 @@ Includes several visualizations such as:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🧮 PROJECT WORKFLOW
+### 🧮 **PROJECT WORKFLOW**
 
 1. Import and clean the dataset
 2. Perform EDA using Pandas and visualization libraries
@@ -57,7 +57,7 @@ Includes several visualizations such as:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🧠 KEY INSIGHTS FROM SALES DATA ANALYSIS
+### 🧠 **KEY INSIGHTS FROM SALES DATA ANALYSIS**
 
 1. Best Month for Sales
 December recorded the highest sales revenue, with a noticeable spike in order volume.
@@ -81,7 +81,7 @@ Accessories like Headphones and Charging Cables were often purchased along with 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🔧 HOW TO RUN
+### 🔧 **HOW TO RUN**
 1. Clone this repository
      git clone https://github.com/<yourusername>/Sales-Data-Analysis.git
 2. Navigate into the folder
@@ -91,7 +91,7 @@ Accessories like Headphones and Charging Cables were often purchased along with 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📚 LEARNING OUTCOMES
+### 📚 **LEARNING OUTCOMES**
 
 The learning outcomes from Sales Data Analysis work include a solid grasp of essential data analysis processes, using Python libraries, performing data cleaning, and extracting business insights from sales data.​
 
@@ -108,7 +108,7 @@ Troubleshooting and ignoring non-essential warnings for cleaner output, demonstr
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-🧑‍💻 CONTACT
+### 🧑‍💻 **CONTACT**
 Keerthanaa S
 📧 skeerthanaa2004@gmail.com
 🔗 LinkedIn (www.linkedin.com/in/keerthanaa-s-a3a99328b)

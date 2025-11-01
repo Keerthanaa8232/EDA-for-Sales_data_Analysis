@@ -1,8 +1,8 @@
-🧾 Sales Data Analysis
-Overview
+🧾 SALES DATA ANALYSIS
+
+OVERVIEW
 
 This project performs Exploratory Data Analysis (EDA) on a sales dataset to uncover business insights such as:
-
 --> The best month for sales
 --> Top-performing cities
 --> Most sold products
@@ -11,14 +11,14 @@ The goal is to extract meaningful patterns and help businesses make data-driven 
 
 
 
-🧰 Tools & Technologies Used
+🧰 TOOLS AND TECHNOLOGIES USED
 -->Python
 -->Pandas, NumPy
 -->Matplotlib, Seaborn
 -->PyArrow
 -->Jupyter Notebook
 
-📊 Key Analyses Performed
+📊 KEY ANALYSIS PERFORMED
 
 --> Data Cleaning & Preprocessing
 -->Handled missing and duplicate values
@@ -33,7 +33,7 @@ The goal is to extract meaningful patterns and help businesses make data-driven 
 -->Studied the relationship between quantity ordered, price, and revenue
 
 
-📈 Visualizations
+📈 VISUALIZATION
 Includes several visualizations such as:
 -->Monthly revenue trends
 -->City-wise order counts
@@ -43,7 +43,7 @@ Includes several visualizations such as:
 (All visualizations created using Matplotlib and Seaborn.)
 
 
-🧮 Project Workflow
+🧮 PROJECT WORKFLOW
 
 1. Import and clean the dataset
 2. Perform EDA using Pandas and visualization libraries
@@ -52,7 +52,7 @@ Includes several visualizations such as:
 
 
 
-🧠 Key Insights from Sales Data Analysis
+🧠 KEY INSIGHTS FROM SALES DATA ANALYSIS
 
 📅 1. Best Month for Sales
 December recorded the highest sales revenue, with a noticeable spike in order volume.
@@ -76,7 +76,7 @@ Accessories like Headphones and Charging Cables were often purchased along with 
 
 
 
-🔧 How to Run
+🔧 HOW TO RUN
 1. Clone this repository
      git clone https://github.com/<yourusername>/Sales-Data-Analysis.git
 2. Navigate into the folder
@@ -84,22 +84,22 @@ Accessories like Headphones and Charging Cables were often purchased along with 
 3. Open the notebook
      jupyter notebook "Sales_Data_Analysis.ipynb"
 
-📚 Learning Outcome
+📚 LEARNING OUTCOMES
 
 The learning outcomes from Sales Data Analysis work include a solid grasp of essential data analysis processes, using Python libraries, performing data cleaning, and extracting business insights from sales data.​
 
-Core Learning Outcomes
+Core Learning Outcomes:
 Understanding how to import and use standard data analysis libraries such as pandas, numpy, seaborn, and matplotlib for thorough data exploration and visualization.​
 Mastering data preprocessing steps such as handling missing values, removing duplicates, and converting data types to prepare large datasets for analysis.​
 Developing functions to extract features (such as parsing dates into months) and create new attributes (like monthly sales), which are crucial in time-series business analysis.
 
-Practical Skills Gained
+Practical Skills Gained:
 Applying group-by and aggregation methods to summarize sales data and identify trends, such as determining the best sales month or most popular products.​
 Visualizing findings using plots and charts to present sales trends and insights in a clear, business-friendly manner.​
 Troubleshooting and ignoring non-essential warnings for cleaner output, demonstrating a pragmatic approach to exploratory data analysis.​
 
 
-🧑‍💻 Author
+🧑‍💻 CONTACT
 Keerthanaa S
 📧 skeerthanaa2004@gmail.com
 🔗 LinkedIn
